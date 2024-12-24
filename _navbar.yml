@@ -1,19 +1,23 @@
 name: "Mywebsite"
-title: "My new website"
+title: "MU Plant Research Symposium"
 type: inverse
 left:
-  - text: "About me"
+  - text: "Program"
     menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
-  - text: "Project"
+      - text: "Program at a glance"
+        href: ./program.html
+      - text: "Invited Speakers"
+        href: ./invited.html
+      - text: "Abstracts"
+        href: ./abstracts.html
+  - text: "Past Symposia"
     menu:
-       - text: "Project part 1"
-         href: ./project1.html
-       - text: "Project part 2"
-         href: ./project2.html
-  - text: "Contact"
+       - text: "2024"
+         href: ../2024/index.html
+       - text: "2023"
+         href: ../2023/index.html
+  - text: "Organizing Committee"
     href: ./contact.html
 right:
   - icon: fa-github fa-lg
-    href: https://github.com/githubusername/mywebsite
+    href: https://www.github.com/muplantsymposium/muplantsymposium.github.io

@@ -1,4 +1,4 @@
-name: "My new website"
+name: "MU Plant Research Symposium"
 output_dir: '2025'
 output:
   html_document:
