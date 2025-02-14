@@ -1,7 +1,9 @@
-name: "Mywebsite"
+name: "MU Plant Research Symposium"
 title: "MU Plant Research Symposium"
 type: inverse
 left:
+  - text: "Register"
+    href: https://forms.gle/N18uf92HL9gvzzcR8
   - text: "Program"
     menu:
       - text: "Program at a glance"
@@ -16,6 +18,8 @@ left:
          href: ../2024/index.html
        - text: "2023"
          href: ../2023/index.html
+  - text: "Sponsors"
+    href: ./sponsors.html
   - text: "Organizing Committee"
     href: ./contact.html
 right:

@@ -11,7 +11,7 @@
 
 
 
-<title>My website</title>
+<title>Invited Speakers</title>
 
 <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
@@ -209,6 +212,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -216,6 +288,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -232,7 +314,10 @@ $(document).ready(function () {
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li class="dropdown">
+        <li>
+  <a href="https://forms.gle/N18uf92HL9gvzzcR8">Register</a>
+</li>
+<li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Program
      
@@ -266,6 +351,9 @@ $(document).ready(function () {
   </ul>
 </li>
 <li>
+  <a href="./sponsors.html">Sponsors</a>
+</li>
+<li>
   <a href="./contact.html">Organizing Committee</a>
 </li>
       </ul>
@@ -285,30 +373,100 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">My website</h1>
+<h1 class="title toc-ignore">Invited Speakers</h1>
 
 </div>
 
 
-<p><strong>Welcome to my website!</strong></p>
-<div id="getting-started" class="section level1">
-<h1>Getting started</h1>
-<p>Click the links in the menu above to look around.</p>
+<div id="tessa-burch-smith-phd" class="section level1">
+<h1>Tessa Burch-Smith, PhD</h1>
+<p><img src="../figs25/TBS350x350.jpg" /></p>
+<p><strong>Donald Danforth Plant Science Center</strong></p>
+<p>Dr. Burch-Smith is currently an Associate Member and Principal
+Investigator at the Donald Danforth Plant Science Center in St. Louis,
+Missouri. My research focuses on intercellular communication in plants,
+particularly on structures called plasmodesmata that allow movement of
+molecules between walled plant cells. One area of interest is how
+various signals are integrated by plant cells to control intercellular
+communication and signaling. Dr. Burch-Smith uses diverse molecular and
+cell biological approaches including advanced light and electron
+microscopy and plant viruses to address questions related to
+plasmodesmal structure during development and pathogen infection. Her
+lab also investigates chloroplast gene expression and retrograde
+signaling to control nuclear gene expression. Research in her lab has
+been funded by the National Science Foundation, and the USDA.
+Dr. Burch-Smith is excited to engage with the wider scientific
+community, and she serves as a Senior Editor and Associate
+Editor-in-Chief of the Molecular Plant-Microbe Interactions journal
+among other roles in various scientific societies. Dr. Burch-Smith is
+also passionate about broadening participation in science and an
+integral part of her outreach activities includes providing an
+enriching, supportive environment/opportunities for deaf/hard-of-hearing
+persons and other individuals with limited opportunities for
+research.</p>
+<p><strong>Talk title: Signal integration for plant cell-cell
+communication</strong></p>
+<p><br /><br /><br /></p>
 </div>
-<div id="notes" class="section level1">
-<h1>Notes</h1>
-<p>This website is a collection of regular (R)Markdown document, so you
-can use all the usual formatting.</p>
-<p>If you are new to R Markdown, you can learn more about it <a
-href="https://rmarkdown.rstudio.com/">on the R Markdown website</a>.</p>
-<p>I also have a discussion of R Markdown and reproducibility <a
-href="https://andreashandel.github.io/MADAcourse/1e_ToolsforReproducibility.html">on
-one of my course pages</a>. You’ll find additional links to potentially
-useful R Markdown (and Github) resources there.</p>
+<div id="malia-gehan-phd" class="section level1">
+<h1>Malia Gehan, PhD</h1>
+<p><img src="../figs25/MG350x350.jpg" /></p>
+<p><strong>Donald Danforth Plant Science Center</strong></p>
+<p>Dr. Gehan is an Associate Member and Principal Investigator at the
+Donald Danforth Plant Science Center, whose group focuses understanding
+mechanisms of crop resilience under temperature stress. To study
+temperature stress and natural variation, the Gehan Lab co-develops and
+maintain the open-source open-development suite of image analysis tools,
+PlantCV, along with Dr. Noah Fahlgren’s group. In 2021, she received an
+early career award from the North American Plant Phenotyping Network and
+she is currently a Taylor Geospatial Fellow, which is awarded to
+researchers in geospatial science or adjacent fields.</p>
+<p><br /><br /><br /></p>
+</div>
+<div id="matthew-b.-hufford-phd" class="section level1">
+<h1>Matthew B. Hufford, PhD</h1>
+<p><img src="../figs25/MBH350x350.jpg" /></p>
+<p><strong>Iowa State University</strong></p>
+<p>Matt joined the faculty of EEOB as an Assistant Professor in the Fall
+of 2013. Matt’s research spans both the evolution and ecology of crops
+and their wild relatives with a particular focus on maize and the
+teosintes. Current research in the Hufford Lab is focused on the
+demography and local adaptation of ancient farmer varieties of maize
+known as “landraces”, the evolutionary significance of gene flow across
+taxa in the genus Zea, and genome assembly and comparative genomics of
+maize, teosinte and grass species in the Andropogoneae tribe.</p>
+<p><br /><br /><br /></p>
+</div>
+<div id="julin-n.-maloof-phd" class="section level1">
+<h1>Julin N. Maloof, PhD</h1>
+<p><img src="../figs25/JNM350x350.jpg" /></p>
+<p><strong>University of California, Davis</strong></p>
+<p>The Maloof lab uses genetic, genomic, and bioinformatic approaches to
+understand how plants sense, respond, and adapt to their
+environment.</p>
+<p>How do plants adapt to different climates? Plants undergo critical
+developmental transitions that must be matched to their local
+environment to enable success. For example, germination must occur when
+environmental conditions are favorable for seedling establishment and
+growth. Flowering must occur when pollinators are present and when
+conditions can support resource investment into seed. The proper timing
+for these events varies widely in different climates. Perennials growing
+in the foothills of California’s Sierra Nevada must cope with
+significant summer heat and drought and therefore often germinate in the
+fall, grow in the winter, and flower in the spring. This strategy does
+work not for plants at higher elevation where many feet of snow cover
+the ground from November to May or June. In collaboration with Jenny
+Gremer, Sharon Strauss, and Johanna Schmitt we are studying the
+environmental cues that plants in the <em>Streptanthus</em> clade use to
+determine germination and reproductive timing, how the use of these cues
+varies in populations and species adapted to different climates, and the
+evolution of genetic networks associated with these changes.</p>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -341,6 +499,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

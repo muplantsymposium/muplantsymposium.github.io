@@ -1,27 +1,35 @@
 ---
-title: "My website"
+title: "MU-Corteva Plant Research Symposium"
 output: 
   html_document:
     toc: FALSE
 ---
 
+# 2025 Edition at a Glance
 
+- **Day:** Wednesday 9th, April 2025.
+- **Time:** 8am - 5pm CT
+- **Where:** MU Bond Life Sciences Center Building (virtual option available)
 
+Click [here](./program.html) more information about the program
 
-**Welcome to my website!**
+# Invited Speakers
 
+- [**Tessa Burch-Smith**](https://www.danforthcenter.org/our-work/principal-investigators/tessa-burch-smith/), Donald Danforth Plant Science Center
+- [**Malia Gehan**](https://www.danforthcenter.org/our-work/principal-investigators/malia-gehan/), Donald Danforth Plant Science Center
+- [**Matthew Hufford**](https://www.eeob.iastate.edu/people/matthew-hufford). Iowa State University
+- [**Julin Maloof**](https://biology.ucdavis.edu/people/julin-maloof), University of California&mdash;Davis
 
-# Getting started
+Click [here](./invited.html) more information about our invited speakers and their talks.
 
-Click the links in the menu above to look around.
+# Sponsors
 
+This symposium is possible thanks to the generous contributions of our sponsors:
 
-# Notes
+- [**Corteva Agriscience**](https://www.corteva.com/)
+- [**Donald Danforth Plant Science Center**](https://www.danforthcenter.org/)
+- [**Interdisciplinary Plant Group at the University of Missouri**](https://ipg.missouri.edu/)
+- [**The MU Bond Life Sciences Center**](https://bondlsc.missouri.edu/)
+- [**Division of Biological Sciences at the University of Missouri**](https://biology.missouri.edu/)
 
-This website is a collection of regular (R)Markdown document, so you can use all the usual formatting.
-
-If you are new to R Markdown, you can learn more about it [on the R Markdown website](https://rmarkdown.rstudio.com/). 
-
-I also have a discussion of R Markdown and reproducibility [on one of my course pages](https://andreashandel.github.io/MADAcourse/1e_ToolsforReproducibility.html). You'll find additional links to potentially useful R Markdown (and Github) resources there.
-
-
+![](../figs25/sponsors2025.png)

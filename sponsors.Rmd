@@ -1,0 +1,17 @@
+---
+title: "Sponsors"
+output: 
+  html_document:
+    toc: FALSE
+
+---
+
+This symposium is possible thanks to the generous contributions of our sponsors:
+
+- [**Corteva Agriscience**](https://www.corteva.com/)
+- [**Donald Danforth Plant Science Center**](https://www.danforthcenter.org/)
+- [**Interdisciplinary Plant Group at the University of Missouri**](https://ipg.missouri.edu/)
+- [**The MU Bond Life Sciences Center**](https://bondlsc.missouri.edu/)
+- [**Division of Biological Sciences at the University of Missouri**](https://biology.missouri.edu/)
+
+![](../figs25/sponsors2025.png)

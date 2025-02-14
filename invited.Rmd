@@ -1,0 +1,47 @@
+---
+title: "Invited Speakers"
+output: html_document
+
+---
+
+# Tessa Burch-Smith, PhD
+
+![](../figs25/TBS350x350.jpg)
+
+**Donald Danforth Plant Science Center**
+
+Dr. Burch-Smith is currently an Associate Member and Principal Investigator at the Donald Danforth Plant Science Center in St. Louis, Missouri. My research focuses on intercellular communication in plants, particularly on structures called plasmodesmata that allow movement of molecules between walled plant cells. One area of interest is how various signals are integrated by plant cells to control intercellular communication and signaling. Dr. Burch-Smith uses diverse molecular and cell biological approaches including advanced light and electron microscopy and plant viruses to address questions related to plasmodesmal structure during development and pathogen infection. Her lab also investigates chloroplast gene expression and retrograde signaling to control nuclear gene expression. Research in her lab has been funded by the National Science Foundation, and the USDA.  Dr. Burch-Smith is excited to engage with the wider scientific community, and she serves as a Senior Editor and Associate Editor-in-Chief of the Molecular Plant-Microbe Interactions journal among other roles in various scientific societies.  Dr. Burch-Smith is also passionate about broadening participation in science and an integral part of her outreach activities includes providing an enriching, supportive environment/opportunities for deaf/hard-of-hearing persons and other individuals with limited opportunities for research.
+
+**Talk title: Signal integration for plant cell-cell communication**
+
+<br /><br /><br />
+
+# Malia Gehan, PhD
+
+![](../figs25/MG350x350.jpg)
+
+**Donald Danforth Plant Science Center**
+
+Dr. Gehan is an Associate Member and Principal Investigator at the Donald Danforth Plant Science Center, whose group focuses understanding mechanisms of crop resilience under temperature stress. To study temperature stress and natural variation, the Gehan Lab co-develops and maintain the open-source open-development suite of image analysis tools, PlantCV, along with Dr. Noah Fahlgren’s group. In 2021, she received an early career award from the North American Plant Phenotyping Network and she is currently a Taylor Geospatial Fellow, which is awarded to researchers in geospatial science or adjacent fields.
+
+<br /><br /><br />
+
+# Matthew B. Hufford, PhD
+
+![](../figs25/MBH350x350.jpg)
+
+**Iowa State University**
+
+Matt joined the faculty of EEOB as an Assistant Professor in the Fall of 2013. Matt's research spans both the evolution and ecology of crops and their wild relatives with a particular focus on maize and the teosintes. Current research in the Hufford Lab is focused on the demography and local adaptation of ancient farmer varieties of maize known as "landraces", the evolutionary significance of gene flow across taxa in the genus Zea, and genome assembly and comparative genomics of maize, teosinte and grass species in the Andropogoneae tribe. 
+
+<br /><br /><br />
+
+# Julin N. Maloof, PhD
+
+![](../figs25/JNM350x350.jpg)
+
+**University of California, Davis**
+
+The Maloof lab uses genetic, genomic, and bioinformatic approaches to understand how plants sense, respond, and adapt to their environment.
+
+How do plants adapt to different climates?  Plants undergo critical developmental transitions that must be matched to their local environment to enable success.  For example, germination must occur when environmental conditions are favorable for seedling establishment and growth.  Flowering must occur when pollinators are present and when conditions can support resource investment into seed.  The proper timing for these events varies widely in different climates.  Perennials growing in the foothills of California’s Sierra Nevada must cope with significant summer heat and drought and therefore often germinate in the fall, grow in the winter, and flower in the spring.  This strategy does work not for plants at higher elevation where many feet of snow cover the ground from November to May or June.  In collaboration with Jenny Gremer, Sharon Strauss, and Johanna Schmitt we are studying the environmental cues that plants in the *Streptanthus* clade use to determine germination and reproductive timing, how the use of these cues varies in populations and species adapted to different climates, and the evolution of genetic networks associated with these changes.
