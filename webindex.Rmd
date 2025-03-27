@@ -5,6 +5,10 @@ output:
     toc: FALSE
 ---
 
+
+![](../figs25/mups_logo_small.png)
+
+
 # 2025 Edition at a Glance
 
 - **Day:** Wednesday 9th, April 2025.

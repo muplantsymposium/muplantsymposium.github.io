@@ -1,3 +1,5 @@
+![](./figs25/mups_logo_small.png)
+
 # Conference website
 
 Website for the MU-Corteva Plant Research Symposium. Hosted freely in GitHub pages.
@@ -12,6 +14,28 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 ### Invited Speakers
 
+* Tessa Burch-Smith (Donald Danforth Plant Science Center)
+
+* Malia Gehan (Donald Danforth Plant Science Center)
+
+* Matthew B. Hufford (Iowa State University)
+
+* Julin N. Maloof (University of California, Davis)
 
 ### Committee Members
 
+* **Chair and fearless leader:** Sarah Fitzsimmons (Biological Sciences)
+
+* **Co-chair:** Mandeep Kaur Jauhal (Plant Science & Technology)
+
+* **Secretary:** Lily Nowack (Biochemistry)
+
+* **Treasurer:** Ha Duong (Plant Science & Technology)
+
+* **Symposium Event Coordinator:** Prakriti Chand (Plant Science & Technology)
+
+* **Social Event Coordinator:** Asha Kaluwella Mudalige (Plant Science & Technology)
+
+* **Social Media Guru:** Grace Raycraft (Microbiology major)
+
+* **Webmaster:** Erik Am&eacute;zquita (Plant Science/Mathematics)

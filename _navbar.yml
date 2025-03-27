@@ -8,18 +8,12 @@ left:
         href: https://forms.gle/fonpWPpG6ina7ei56
       - text: "Abstract Submission"
         href: https://forms.gle/49at15CQVfPgbUwP7
-  - text: "Program"
+  - text: "2025 Edition"
     menu:
       - text: "Program at a glance"
         href: ./program.html
       - text: "Invited Speakers"
         href: ./invited.html
-  - text: "Past Symposia"
-    menu:
-       - text: "2024"
-         href: ../2024/index.html
-       - text: "2023"
-         href: ../2023/index.html
   - text: "Sponsors"
     href: ./sponsors.html
   - text: "Organizing Committee"

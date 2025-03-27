@@ -11,7 +11,7 @@
 
 
 
-<title>MU-Corteva Plant Research Symposium</title>
+<title>404</title>
 
 <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,9 +29,10 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -209,6 +210,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -216,6 +286,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -285,76 +365,18 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">MU-Corteva Plant Research Symposium</h1>
 
 </div>
 
 
-<p><img src="../figs25/mups_logo_small.png" /></p>
-<div id="edition-at-a-glance" class="section level1">
-<h1>2025 Edition at a Glance</h1>
-<ul>
-<li><strong>Day:</strong> Wednesday 9th, April 2025.</li>
-<li><strong>Time:</strong> 8am - 5pm CT</li>
-<li><strong>Where:</strong> MU Bond Life Sciences Center Building
-(virtual option available)</li>
-</ul>
-<p>Click <a href="./program.html">here</a> more information about the
-program.</p>
-</div>
-<div id="invited-speakers" class="section level1">
-<h1>Invited Speakers</h1>
-<ul>
-<li><a
-href="https://www.danforthcenter.org/our-work/principal-investigators/tessa-burch-smith/"><strong>Tessa
-Burch-Smith</strong></a>, Donald Danforth Plant Science Center</li>
-<li><a
-href="https://www.danforthcenter.org/our-work/principal-investigators/malia-gehan/"><strong>Malia
-Gehan</strong></a>, Donald Danforth Plant Science Center</li>
-<li><a
-href="https://www.eeob.iastate.edu/people/matthew-hufford"><strong>Matthew
-Hufford</strong></a>. Iowa State University</li>
-<li><a
-href="https://biology.ucdavis.edu/people/julin-maloof"><strong>Julin
-Maloof</strong></a>, University of California—Davis</li>
-</ul>
-<p>Click <a href="./invited.html">here</a> more information about our
-invited speakers and their talks.</p>
-</div>
-<div id="participate" class="section level1">
-<h1>Participate</h1>
-<p>Registration is <strong>FREE</strong> and open. <a
-href="https://forms.gle/fonpWPpG6ina7ei56">Click here to register</a>.
-Please register to your earliest convenience so we can plan meals
-accordingly.</p>
-<p>You are also invited to present your work at the Symposium. Oral
-presentations, lightning talks, and poster spots available. <a
-href="https://forms.gle/49at15CQVfPgbUwP7">Submit your abstract
-here</a>.</p>
-<p><strong>Deadline for abstract submission:</strong> March 15th,
-2025.</p>
-</div>
-<div id="sponsors" class="section level1">
-<h1>Sponsors</h1>
-<p>This symposium is possible thanks to the generous contributions of
-our sponsors:</p>
-<ul>
-<li><a href="https://www.corteva.com/"><strong>Corteva
-Agriscience</strong></a></li>
-<li><a href="https://www.danforthcenter.org/"><strong>Donald Danforth
-Plant Science Center</strong></a></li>
-<li><a href="https://ipg.missouri.edu/"><strong>Interdisciplinary Plant
-Group at the University of Missouri</strong></a></li>
-<li><a href="https://bondlsc.missouri.edu/"><strong>The MU Bond Life
-Sciences Center</strong></a></li>
-<li><a href="https://biology.missouri.edu/"><strong>Division of
-Biological Sciences at the University of Missouri</strong></a></li>
-</ul>
-<p><img src="../figs25/sponsors2025.png" /></p>
-</div>
+<p>We are still working on the details. Please check back later.</p>
+<p><img
+src="https://i.pinimg.com/originals/0d/07/dc/0d07dcec00b86b5ba3c9478042e50597.jpg" /></p>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -387,6 +409,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

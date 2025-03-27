@@ -10,8 +10,6 @@ The 2025 MU Plant Research Symposium was organized by:
 
 **Chair and fearless leader:** Sarah Fitzsimmons (Biological Sciences)
 
-![](../figs25/SF_220x220.jpg)
-
 **Co-chair:** Mandeep Kaur Jauhal (Plant Science & Technology)
 
 **Secretary:** Lily Nowack (Biochemistry)
@@ -27,3 +25,5 @@ The 2025 MU Plant Research Symposium was organized by:
 **Webmaster:** Erik Am&eacute;zquita (Plant Science/Mathematics)
 
 All of us are affiliated to the University of Missouri, Columbia. 
+
+![](../figs25/mups_logo_small.png)
