@@ -1,0 +1,10 @@
+---
+title: "Posters"
+output: 
+  html_document:
+    toc: FALSE
+---
+  
+**Posters**
+
+![](../figs25/2025_Posters.jpg)
