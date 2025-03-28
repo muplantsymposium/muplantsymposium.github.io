@@ -30,8 +30,6 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 * **Secretary:** Lily Nowack (Biochemistry)
 
-* **Treasurer:** Ha Duong (Plant Science & Technology)
-
 * **Symposium Event Coordinator:** Prakriti Chand (Plant Science & Technology)
 
 * **Social Event Coordinator:** Asha Kaluwella Mudalige (Biological Sciences)
