@@ -5,8 +5,6 @@ output:
     toc: FALSE
 ---
   
-**We are still working on the program.**
+**Program**
 
-Please check back later
-
-![](../figs25/Tiger_8Bit.gif)
+![](../figs25/2025_Program.jpg)
