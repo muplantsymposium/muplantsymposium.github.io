@@ -26,7 +26,7 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 * **Chair and fearless leader:** Sarah Fitzsimmons (Biological Sciences)
 
-* **Co-chair:** Mandeep Kaur Jauhal (Plant Science & Technology)
+* **Co-chair and Treasurer:** Ha Ngoc Duong (Biological Sciences)
 
 * **Secretary:** Lily Nowack (Biochemistry)
 
@@ -34,8 +34,10 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 * **Symposium Event Coordinator:** Prakriti Chand (Plant Science & Technology)
 
-* **Social Event Coordinator:** Asha Kaluwella Mudalige (Plant Science & Technology)
+* **Social Event Coordinator:** Asha Kaluwella Mudalige (Biological Sciences)
 
 * **Social Media Guru:** Grace Raycraft (Microbiology major)
 
 * **Webmaster:** Erik Am&eacute;zquita (Plant Science/Mathematics)
+* 
+* **Other:** Mandeep Kaur Jauhal (Plant Science & Technology), Nirmal Khadka (Plant Science & Technology), Nick Ice (Biochemistry), Monika Choudhary (Plant Science & Technology)
