@@ -39,5 +39,5 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 * **Social Media Guru:** Grace Raycraft (Microbiology major)
 
 * **Webmaster:** Erik Am&eacute;zquita (Plant Science/Mathematics)
-* 
+  
 * **Other:** Mandeep Kaur Jauhal (Plant Science & Technology), Nirmal Khadka (Plant Science & Technology), Nick Ice (Biochemistry), Monika Choudhary (Plant Science & Technology)
