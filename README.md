@@ -8,34 +8,32 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 ## 2025 Edition
 
-- **Day:** Wednesday 9th, April 2025.
-- **Time:** 8am - 5pm CT
-- **Where:** MU Bond Life Sciences Center Building
+- **Day:** Friday, 24th April 2025.
+- **Time:** XXXam - XXXpm CT
+- **Where:** MU Bond Memorial Union Building
 
 ### Invited Speakers
 
-* Tessa Burch-Smith (Donald Danforth Plant Science Center)
+* Bing Yang (University of Missouri, Donald Danforth Plant Science Center)
 
-* Malia Gehan (Donald Danforth Plant Science Center)
+* Lauren Brzozowski (University of Kentucky)
 
-* Matthew B. Hufford (Iowa State University)
+* James Schnable (University of Nebraska-Lincoln)
 
-* Julin N. Maloof (University of California, Davis)
+* Prashant Sonawane (University of Missouri)
+
+* Maryam Rahmati (Eastern Illinois University)
 
 ### Committee Members
-
-* **Chair and fearless leader:** Sarah Fitzsimmons (Biological Sciences)
-
-* **Co-chair and Treasurer:** Ha Ngoc Duong (Biological Sciences)
-
-* **Secretary:** Lily Nowack (Biochemistry)
-
-* **Symposium Event Coordinator:** Prakriti Chand (Plant Science & Technology)
-
-* **Social Event Coordinator:** Asha Kaluwella Mudalige (Biological Sciences)
-
-* **Social Media Guru:** Grace Raycraft (Microbiology major)
-
-* **Webmaster:** Erik Am&eacute;zquita (Plant Science/Mathematics)
   
-* **Other:** Mandeep Kaur Jauhal (Plant Science & Technology), Nirmal Khadka (Plant Science & Technology), Nick Ice (Biochemistry), Monika Choudhary (Plant Science & Technology)
+* **Co-Chair:** Huda Ansef (Biological Sciences)
+
+* **Co-chair and ASPB Liason:** Zach Traylor (Biological Sciences)
+
+* **Treasurer:** Mandeep Kaur Jauhal (Plant Science and Technology)
+
+* **Secretary:** Irene Ikiriko (Plant Science & Technology)
+
+* **Social Event Coordinator:** Than Kamei (Plant Science & Technology)
+
+* **Webmaster and Social Media Guru:** Rabia Ahuja (Plant Science & Technology)
