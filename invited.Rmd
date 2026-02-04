@@ -6,7 +6,7 @@ output: html_document
 
 # Bing Yang, PhD
 
-![](../figs25/TBS350x350.jpg)
+![](../figs26/yang.jpg)
 
 **University of Missouri, Donald Danforth Plant Science Center**
 
@@ -18,7 +18,7 @@ Insert Description
 
 # Lauren Brzozowski, PhD
 
-![](../figs25/MG350x350.jpg)
+![](../figs26/brzozowski.jpg)
 
 **University of Kentucky**
 
@@ -28,7 +28,7 @@ Insert Description
 
 # James Schnable, PhD
 
-![](../figs25/MBH350x350.jpg)
+![](../figs26/schnable.jpg)
 
 **University of Nebraska-Lincoln**
 
@@ -38,7 +38,7 @@ Insert Description
 
 # Prashant Sonawane, PhD
 
-![](../figs25/JNM350x350.jpg)
+![](../figs26/sonawane.jpg)
 
 **University of Missouri **
 
@@ -48,7 +48,7 @@ Insert Description
 
 # Maryam Rahmati, PhD
 
-![](../figs25/MBH350x350.jpg)
+![](../figs26/rahmati.jpg)
 
 **Eastern Illinois University**
 
