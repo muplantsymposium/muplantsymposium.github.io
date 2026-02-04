@@ -6,7 +6,7 @@ Website for the MU-Corteva Plant Research Symposium. Hosted freely in GitHub pag
 
 Website built with RMarkdown following [this tutorial](https://www.andreashandel.com/posts/2021-01-11-simple-github-website/index.html).
 
-## 2025 Edition
+## 2026 Edition
 
 - **Day:** Friday, 24th April 2025.
 - **Time:** XXXam - XXXpm CT
