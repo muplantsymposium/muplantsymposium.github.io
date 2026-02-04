@@ -10,7 +10,7 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 - **Day:** Friday, 24th April 2025.
 - **Time:** XXXam - XXXpm CT
-- **Where:** MU Bond Memorial Union Building
+- **Where:** MU Memorial Union Building
 
 ### Invited Speakers
 
