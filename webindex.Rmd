@@ -12,8 +12,8 @@ output:
 # 2026 Edition at a Glance
 
 - **Day:** Friday 24th, April 2026.
-- **Time:** XXXam - XXXpm CT
-- **Where:** MU Memorial Union Building (virtual option available)
+- **Time:** 8am - 3pm CT
+- **Where:** Wrench Auditorium, MU Memorial Union Building South
 
 Click [here](./program.html) more information about the program.
 
@@ -21,7 +21,7 @@ Click [here](./program.html) more information about the program.
 
 - [**Bing Yang**](https://www.danforthcenter.org/our-work/principal-investigators/bing-yang/?gad_source=1&gad_campaignid=8031793198&gbraid=0AAAAACvziSZdY9tyXaAfLw7kIH8jqLb8z&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzKuvfJPygc48yfqm_cALs3HlIxszLRTNAHzrPD7MdJQkZTM1nugUksaAl6kEALw_wcB), University of Missouri, Donald Danforth Plant Science Center
 - [**Lauren Brzozowski**](https://pss.mgcafe.uky.edu/directory/brzozowski-lauren), University of Kentucky
-- [**James Schnable**](https://agronomy.unl.edu/schnable/). Unviersity of Nebraska-Lincoln
+- [**James Schnable**](https://agronomy.unl.edu/schnable/). University of Nebraska-Lincoln
 - [**Prashant Sonawane**](https://cafnr.missouri.edu/directory/prashant-d-sonawane/), University of Missouri
 - [**Maryam Rahmati**](https://www.eiu.edu/_eiu15/include/global/profile-frame-gsm2.php?id=mrahmatiishka&subcat=0), Eastern Illinois University
 
@@ -31,9 +31,9 @@ Click [here](./invited.html) more information about our invited speakers and the
 
 Registration is **FREE** and open. [Click here to register](link). Please register to your earliest convenience so we can plan meals accordingly.
 
-You are also invited to present your work at the Symposium through lightning talks. [Submit your abstract here](https://forms.gle/49at15CQVfPgbUwP7).
+You are also invited to submit your abstract for your ASPB poster to be considered for a lightning talk. [Submit your abstract here](insert IPG symposium Abstract submission page).
 
-**Deadline for abstract submission:** March 15th, 2026.
+**Deadline for abstract submission:** March 23rd, 2026.
 
 # Sponsors
 
