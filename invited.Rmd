@@ -10,9 +10,9 @@ output: html_document
 
 **University of Missouri, Donald Danforth Plant Science Center**
 
-Insert Description
-
 **Talk title: **
+
+Insert Description
 
 <br /><br /><br />
 
@@ -21,6 +21,8 @@ Insert Description
 ![](../figs26/brzozowski.jpg)
 
 **University of Kentucky**
+
+**Talk title: **
 
 Insert Description
 
@@ -32,6 +34,8 @@ Insert Description
 
 **University of Nebraska-Lincoln**
 
+**Talk title: **
+
 Insert Description 
 
 <br /><br /><br />
@@ -42,6 +46,8 @@ Insert Description
 
 **University of Missouri **
 
+**Talk title: **
+
 Insert Description 
 
 <br /><br /><br />
@@ -51,5 +57,7 @@ Insert Description
 ![](../figs26/rahmati.jpg)
 
 **Eastern Illinois University**
+
+**Talk title: **
 
 Insert Description 
