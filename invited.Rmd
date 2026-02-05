@@ -10,9 +10,9 @@ output: html_document
 
 **University of Missouri, Donald Danforth Plant Science Center**
 
-**Talk title: **
+**Talk title: Advancements in Genetic Toolkits for Plants and Their Applications **
 
-Insert Description
+Dr. Bing Yang is the Curators’ Distinguished Professor at the University of Missouri - Columbia, and a member and Principal Investigator at Donald Danforth Plant Science Center in St. Louis. He received PhD degree in plant pathology at Kansas State University. Yang’s research areas include developing and applying gene editing tool kits for basic understanding of disease biology of crops, as well as for genetically engineering of crop plants with improved traits. Specifically, his group has developed a suite of tool sets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean. His research also focuses on basic understanding of host susceptibility/resistance to bacterial infection and using genome editing tools to engineer disease resistant rice varieties.
 
 <br /><br /><br />
 
