@@ -8,9 +8,9 @@ output:
 
 The 2026 MU Plant Research Symposium was organized by:
 
-**Co-Chair:** Huda Ansef (Biological Sciences)
+**Co-Chair:** Huda Ansaf (Biological Sciences)
 
-**Co-chair and ASPB Liason:** Zach Traylor (Biological Sciences)
+**Co-chair and ASPB Liasion:** Zach Traylor (Biological Sciences)
 
 **Treasurer:** Mandeep Kaur Jauhal (Plant Science and Technology)
 
@@ -18,7 +18,9 @@ The 2026 MU Plant Research Symposium was organized by:
 
 **Social Event Coordinator:** Than Kamei (Plant Science & Technology)
 
-**Webmaster and Social Media Guru:** Rabia Ahuja (Plant Science & Technology)
+**Social Media Guru:** Rabia Ahuja (Plant Science & Technology)
+
+**Webmaster:** Varun Dwivedi (Biochemistry)
 
 All of us are affiliated to the University of Missouri, Columbia. 
 
