@@ -8,9 +8,9 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 ## 2026 Edition
 
-- **Day:** Friday, 24th April 2025.
-- **Time:** XXXam - XXXpm CT
-- **Where:** MU Memorial Union Building
+- **Day:** Friday, 24th April 2026.
+- **Time:** 8am - 3pm CT
+- **Where:** Wrench Auditorium, MU Memorial Union Building South
 
 ### Invited Speakers
 
@@ -26,9 +26,9 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 ### Committee Members
   
-* **Co-Chair:** Huda Ansef (Biological Sciences)
+* **Chair:** Huda Ansaf (Biological Sciences)
 
-* **Co-chair and ASPB Liason:** Zach Traylor (Biological Sciences)
+* **Co-chair and ASPB Liasion:** Zach Traylor (Biological Sciences)
 
 * **Treasurer:** Mandeep Kaur Jauhal (Plant Science and Technology)
 
@@ -36,4 +36,6 @@ Website built with RMarkdown following [this tutorial](https://www.andreashandel
 
 * **Social Event Coordinator:** Than Kamei (Plant Science & Technology)
 
-* **Webmaster and Social Media Guru:** Rabia Ahuja (Plant Science & Technology)
+* **Social Media Guru:** Rabia Ahuja (Plant Science & Technology)
+  
+* **Webmaster:** Varun Dwivedi (Biochemistry)
