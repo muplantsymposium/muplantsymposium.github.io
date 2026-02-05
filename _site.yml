@@ -1,5 +1,5 @@
 name: "MU Plant Research Symposium"
-output_dir: '2025'
+output_dir: '2026'
 output:
   html_document:
     theme: cerulean
@@ -8,3 +8,4 @@ output:
     toc_depth: 2
     toc_float:
       collapsed: false
+
