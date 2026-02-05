@@ -5,10 +5,10 @@ left:
   - text: "Participate"
     menu:
       - text: "Register"
-        href: https://forms.gle/fonpWPpG6ina7ei56
+        href: INSERT REGISTRATION LINK
       - text: "Abstract Submission"
-        href: https://forms.gle/49at15CQVfPgbUwP7
-  - text: "2025 Edition"
+        href: INSERT REGISTRATION LINK
+  - text: "2026 Edition"
     menu:
       - text: "Program at a glance"
         href: ./program.html
@@ -21,3 +21,4 @@ left:
 right:
   - icon: fa-github fa-lg
     href: https://www.github.com/muplantsymposium/muplantsymposium.github.io
+
